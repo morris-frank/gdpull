@@ -1,3 +1,5 @@
+**DEPRECATED - Due to new archive.org design, this script does no longer work**
+
 # Grateful Dead Live Show Download Script:
 #### gdpull
 
